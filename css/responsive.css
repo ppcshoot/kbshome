@@ -1,0 +1,156 @@
+@media only screen and (min-width:1024px) and (max-width:1139px){
+    .copyright p{font-size: 14px;}
+    .readlater{width: 91%;}
+    .homeicon{padding: 7.5px 9px;}
+    .menu ul.topmenu li a{font-size: 15px;padding: 0.55rem 0.7rem;}
+    header ul li a{font-size: 19px;}
+    .popframe{padding-bottom: 8%;}
+    .offerlist .offerctn p{font-size: .7rem;}
+    .offerlist .offerctn h3{font-size: 1.3rem;}
+    .wdbox p{font-size: 12px;}
+}
+@media only screen and (min-width:768px) and (max-width:1023px){
+    header h2 {font-size: 16px;}
+    header p {font-size: 11px;line-height: 15px;}
+    header ul li a{font-size: 14px;}
+    header ul li a img{width: 14px;}
+    .popframe{padding-bottom: 10%;}
+    footer h3{font-size: 1rem;}
+    .disclamier p{font-size: .7rem;}
+    .details_form input{font-size: .8rem;}
+    .copyright p{font-size: 13px;}
+    .homeicon img {width: 20px;}
+    .homeicon{padding: 5.5px 9px;}
+    .menu ul.topmenu li a{font-size: 13px;    padding: 0.5rem 0.3rem;}
+    .menu ul.childmenu a{font-size: 12px;}
+    footer .footerfirst ul li a{word-wrap: break-word;}
+    .slider_ctn h2{font-size: 2.2rem;}
+    .sliderform{width: 293px;padding: 15px 15px;}
+    .trusrcard{max-width: 410px;padding: 12px;}
+    .trusrcard h5{font-size: .8rem;}
+    .readlater{width: 632px;}
+    .offerlist .offerctn h3{font-size: 1.2rem;}
+    .offerlist .offerctn p{font-size: .7rem;}
+    .wdbox p{font-size: 10px;}
+    .readctn h2{font-size: 1rem;}
+    .readctn p{font-size: 13px;}
+    .alsodo ul li{width: 32%;}
+    .alsodo ul li h3{font-size: 16px;}
+    .faqs h2 button{font-size: 15px;}
+    .commonbox h2{font-size: 1.2rem;}
+    .applications .appbox{margin-top: 20px;    width: 32%;}
+    .popupbanner h3{font-size: 16px;}
+    .popupbanner h3, .popupbanner h4{font-size: 13px;line-height: 19px;}
+    .popupbanner{height: 220px;}
+    .hurry h4{font-size: 30px;}
+    .hurry h5{font-size: 15px;line-height: 20px;}
+    .bgct{padding-top: 20px !important;}
+    .modalgallery img{height: 210px;}
+}
+@media only screen and (max-width:767px){
+    header h2 {font-size: 16px;}
+    header p {font-size: 11px;line-height: 14px;}
+    header ul li a {font-size: 14px;}
+    header ul li a img{width: 14px;}
+    .homeicon img {width: 20px;}
+    .homeicon {padding: 6.5px 7px; margin: 5px 5px 5px 0; display: none;} 
+    .menu ul.topmenu {overflow-x: scroll; white-space: nowrap; padding: 8px 0px;  display: block; width: calc(100% - 16px); margin-left: 5px;}
+    .menu ul.topmenu li a{font-size: 14px;}
+    .menu ul.childmenu a{font-size: 12px;}
+    .menu ul.topmenu li a {font-size: .8rem;border: 2px solid #e3c16b;background: #e5e5e5; padding:8px 4px;}
+    .menu ul.childmenu{text-align: left;width: 100%; white-space: nowrap; padding: 5px 5px; overflow-x: scroll;}
+    .menu ul.childmenu a {font-size: .7rem; padding: 0.2rem 0.3rem; display: inline-block; border: 1px solid #e3c16b;  background: #e5e5e5; border-radius: 60px;margin-right: 10px; font-weight: 500;}
+    footer h3,footer h5,footer .footerfirst ul li a{font-size: .8rem;}
+    .disclamier p{font-size: .7rem;}
+    .details_form input{font-size: .8rem;}
+    .copyright p{font-size: 13px;}
+    .sliderform,.slider_ctn{width: 100%;}
+    .slider_ctn h2{font-size: 2rem;}
+    .desktopform {display: none;}
+    .mobshow{display: block;}
+    .trusrcard{padding: 20px 10px;max-width: calc(100% - 2%);}
+    .applications .appbox{width: 49%;    margin-top: 10px;}
+    .readlater{width: 91%;}
+    .readctn h2{font-size: 1rem;}
+    .readctn p{font-size: 12px;}
+    .commonbox h2{font-size: 1.2rem;}
+    .offerlist .offerctn h3{font-size: 1rem;}
+    .offerlist .offerctn p{font-size: 10px;}
+    .offerlist img {min-height: 220px; object-fit: cover;}
+    .alsodo ul li h3{font-size: 13px;}
+    .alsodo ul li{width: 49%;}
+    .faqs h2 button{font-size: 14px;}
+    .faqs .card-body p{font-size: 12px;}
+    .whyus .modeltitle{font-size: 20px;}
+    .popupbanner h3{font-size: 14px;}
+    .popupbanner h3, .popupbanner h4{font-size: 14px;line-height: 20px;}
+    .popupbanner{height: 210px;}
+    .modalgallery h5, .chooseus h5{font-size: 15px;}
+    .hurry h4{padding: 20px 20px; font-size: 25px;}
+    .hurry h5{font-size: 16px; line-height: 19px;}
+    .bgct{padding-top: 15px !important;}
+    .hurry form{width: 90%;}
+    .hurry form input[type=submit]{font-size: 15px;}
+    .modalgallery img{height: 250px;}
+    .scrollfix{padding-bottom: 30%;}
+}
+@media only screen and (min-width: 600px) {
+    .modal-content.slideupcontent{height: 80vh;}
+    .modal-content.slideupcontent{width: 70%;}
+}
+@media only screen and (max-width: 600px) {
+    .modal-content.slideupcontent{width: 100%;}
+    .modal-content.slideupcontent{ height: 75vh !important;}
+    .close-btn {position: relative !important; top: -38px !important;left: 0px !important;margin: -29px auto !important;} 
+}    
+@media only screen and (max-width:575px){
+    .modal.fade.poupdesign .modal-dialog.modal-dialog-centered{transform: none; position: fixed; bottom: -100%; margin: 0;width: 100%; transition: bottom .5s ease-out;}
+    .modal.show.poupdesign .modal-dialog.modal-dialog-centered{bottom: 0; transition: bottom .5s ease-out;}
+    .menu .container{padding: 0;}
+    .menu ul.childmenu a{margin-right: 1px; text-transform: capitalize;}
+    .menu ul.topmenu{width: calc(100% - 13px);margin-left: 5px;padding-right: 19px;}
+    .menu ul.topmenu li a{padding: 8px 4px;}
+    .menu ul.topmenu li a{border-color: transparent;}
+    .menu ul.topmenu li.active a{border-color: green;}
+    .homeicon{display: none;}
+    .menu-arrow{display: block !important; position: absolute;right: 0px;	top: 8px;	background: #eaeaead9;width: 26px;height: 39px;line-height: 100%;box-sizing: border-box;	cursor: pointer;	z-index: 99;}
+    .menu-arrow img{width: 60px;height: 39px;}
+    header{display: none;}
+    .mobileheader{display: block; padding: 12px;background: #f9f9f9;}
+    .mobileheader h1{font-size: 15px;  margin-top: 10px;text-shadow: 1px 1px 2px rgb(244 116 53);}
+    .mobileheader p{margin-bottom: 0; text-align: center; font-size: 10px;margin-top: 10px;}
+    .mobileheader ul{list-style: none;padding-left: 0;text-align: right; margin-bottom: 7px;}
+    .mobileheader ul li a{color: #000;padding-bottom: 1px;display: block;font-size: 14px;font-family: arial;}
+    .mobileheader .mobrgt{padding-right: 5px;}
+    .mobileheader .moblft{padding-left: 5px;}
+    .mobileheader ul img{width: 13px;background: transparent; padding: 0;  border-radius: 0;}
+    .mobileheader img{width: 150px;}
+    .mainbg{min-height: 270px;padding: 1.5rem 0;background-color: rgba(0, 0, 0, 0.5);}
+    .slider_ctn h2 {font-size: 1.5rem;}
+    .slider_ctn p{font-size: 11px;}
+    .trusrcard { padding: 10px;bottom: 0%; border-radius: 0; width: 100%; max-width: 100%;}
+    .trusrcard h5{font-size: .5rem;}
+    .trusrcard ul li img{width: 30px;}
+    .whyus .modeltitle{font-size: 18px;}
+    .popframe{height: 86vh;padding-bottom: 28%;}
+    .mobile-cta{position: fixed;bottom: 0;    left: 0;    width: 100%;    display: flex;    background: #fff;    box-shadow: 0 -1px 15px rgb(0 0 0 / 7%);    z-index: 99;}
+    .mobile-cta .btn {text-align: center;   font-size: 12px;    letter-spacing: 0.5px;    font-weight: 500;    max-width: 33.33%;    flex: 0 0 33.33%;    padding: 0;    min-height: auto; position: relative;}
+    .mobile-cta p{position: absolute;margin-bottom: 0;width: 100%; top: -12px;height: 150%; opacity: 0;}
+    .mobile-cta  .btn .icon_bg {height: 40px; width: 40px;  margin: auto;  display: flex;  align-items: center;   justify-content: center;  background: #fff;  border-radius: 50%;  margin-top:-10px;  margin-bottom: 5px;  -webkit-box-shadow: 0 -1px 15px rgb(0 0 0 / 7%);-moz-box-shadow: 0 -1px 15px rgb(0 0 0 / 7%); box-shadow: 0 -1px 15px rgb(0 0 0 / 7%);}
+    .mobile-cta .icon { width: 18px;height: 18px;  object-fit: contain;  display: block;margin: auto;}
+ 
+    footer{padding-bottom: 70px;}
+    .copyright p {text-align: center;padding: 4px 0;}
+    .disclamier p {font-size: .6rem;}
+    .applications .appbox{width: 100%;}
+    .appbox a{display: block;font-size: 13px; padding: 7px 0px; margin-top: 10px;}
+    .readctn h2 {font-size: 13px; }
+    .readlater .readbtn{width: 163px; display: block;}
+    .readbtn a{font-size: 10px;}
+    .faqs h2 button {font-size: 12px;}
+    .chooseus ul li{width: 100%;margin: 3px 0px;}
+    .modalgallery img{width: 100%;    object-fit: fill;}
+    .scrollfix{height: 88vh;}
+    .popupbanner {height: 100%;}
+    
+}
